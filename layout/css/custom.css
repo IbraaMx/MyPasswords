@@ -1,0 +1,36 @@
+body {
+    background: #131b21;
+}
+.header {
+    color: #fff;
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 10px;
+    /* margin-bottom: 35px; */
+}
+.header ul {
+    list-style: none;
+    display: flex;
+}
+.header ul li {
+    margin: 7px;
+}
+.header ul li a {
+    color: #fff;
+}
+.table {
+    margin-bottom: 0
+}
+.update {
+    width: 300px;
+    margin: 20px auto
+}
+.update a {
+    color: #fff
+}
+.update a:hover {
+    text-decoration: none;
+}
+#login {
+    width: 360px;
+    margin: 100px auto;
+}
