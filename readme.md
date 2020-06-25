@@ -1,5 +1,9 @@
 My Passwords  PHP script load passwords from database
 
+![](https://i.ibram.ovh/qh01miyo.jpg)
+
+![](https://i.ibram.ovh/6p8i6b26.jpg)
+
 # **NOTE**
 
 Your passwords is very important to be away from people so don't host this script at live host or server if you do `all risks will be borne by you` so install this script at local apache like XAMPP to be safe
