@@ -1,4 +1,4 @@
-My Passwords  PHP script load passwords from database
+PHP-Passwords  PHP script load passwords from database
 
 ![](https://i.ibram.ovh/qh01miyo.jpg)
 
